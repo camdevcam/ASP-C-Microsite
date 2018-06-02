@@ -1,0 +1,11 @@
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/bin/Debug/netcoreapp2.0/DevExpress.Xpo.Demo.deps.json
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/bin/Debug/netcoreapp2.0/DevExpress.Xpo.Demo.runtimeconfig.json
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/bin/Debug/netcoreapp2.0/DevExpress.Xpo.Demo.runtimeconfig.dev.json
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/bin/Debug/netcoreapp2.0/DevExpress.Xpo.Demo.dll
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/bin/Debug/netcoreapp2.0/DevExpress.Xpo.Demo.pdb
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/obj/Debug/netcoreapp2.0/BestWebsite.Xpo.AspNetCoreDemo.csprojResolveAssemblyReference.cache
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/obj/Debug/netcoreapp2.0/BestWebsite.Xpo.AspNetCoreDemo.csproj.CoreCompileInputs.cache
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/obj/Debug/netcoreapp2.0/BestWebsite.Xpo.AspNetCoreDemo.AssemblyInfoInputs.cache
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/obj/Debug/netcoreapp2.0/BestWebsite.Xpo.AspNetCoreDemo.AssemblyInfo.cs
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/obj/Debug/netcoreapp2.0/DevExpress.Xpo.Demo.dll
+/Users/cameroncashwell/Desktop/ASP-C-Microsite-master/XpoASPNETCoreDemo/DevExpress.Xpo.AspNetCoreDemo/obj/Debug/netcoreapp2.0/DevExpress.Xpo.Demo.pdb

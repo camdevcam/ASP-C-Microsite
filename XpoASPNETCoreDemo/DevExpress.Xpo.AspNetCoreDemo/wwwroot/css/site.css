@@ -1,0 +1,57 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background: #eeeeee
+}
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.push, .pushIt { 
+    height: 50px;
+}
+.carousel-caption {
+    color: #ffffff;
+    background-color: rgba(90, 139, 143, 0.2);
+    background: rgba(90, 139, 143, 0.2);
+    /*color: rgba(90, 139, 143, 0.2);*/
+
+}
+.centerIt { 
+    text-align:center;
+}
+.avatar {
+    float: left;
+    border-radius: 8px;
+    width: 180px;
+    height: 180px;
+    padding: 25px
+}
+.carousel-caption p {
+    font-size: 14px;
+    line-height: 1.4;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    background: #000;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    line-height: 3;
+    color: #999999;
+}
+.carousel-inner .item img[src$=".png"] {
+    width: 100%;
+}
+#qrCode {
+    margin: 15px;
+}
+@media screen and (max-width: 767px) {
+    .carousel-caption, img {
+        display: none;
+    }
+}

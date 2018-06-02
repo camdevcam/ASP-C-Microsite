@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5989EBA3-B027-4129-BDA2-8E45339CA5F7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DevExpress.Xpo.AspNetCoreDemo/wwwroot/css/site.css">
+    <Files>
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Core/XpoDemoDataHelper.cs" Line="6" Column="7" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Pages/Index.cshtml" Line="15" Column="44" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Pages/Data.cshtml" Line="5" Column="1" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Pages/Index.cshtml.cs" Line="11" Column="6" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Entities/User.cs" Line="5" Column="30" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Pages/Data.cshtml.cs" Line="1" Column="1" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Program.cs" Line="12" Column="2" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Startup.cs" Line="12" Column="30" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Pages/_ViewImports.cshtml" Line="2" Column="12" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Pages/Contact.cshtml" Line="6" Column="21" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/Pages/About.cshtml" Line="8" Column="28" />
+      <File FileName="DevExpress.Xpo.AspNetCoreDemo/wwwroot/css/site.css" Line="15" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BestWebsite.Xpo.AspNetCoreDemo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
